@@ -23,7 +23,7 @@ This project listens for form submissions from a webhook and creates a new form 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shseam13/form-listener.git
+   git clone https://github.com/shseam13/forms-builder.git
    cd form-listener
 
 npm install
